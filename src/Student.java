@@ -3,7 +3,7 @@ public class Student {
 	private String firstName;
 	private String lastName;
 	private int idNumber;
-	
+	//TEST
 	public Student(String firstName, String lastName, int idNumber) {
 		this.firstName = firstName;
 		this.lastName = lastName;
